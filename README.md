@@ -1,2 +1,2 @@
 # leetcode-practice
-Just me doing some leetcode problem...  ^_^
+Just me doing some leetcode problems...  ^_^

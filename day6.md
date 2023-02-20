@@ -1,6 +1,6 @@
-## 24. Swap Nodes in Pairs
+## 242. Valid Anagram
 
-**Link:** [24. Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/)
+**Link:** [242. Valid Anagram](https://leetcode.cn/problems/valid-anagram/)
 
 **My solution:** 
 

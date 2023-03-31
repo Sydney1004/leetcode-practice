@@ -1,0 +1,27 @@
+# My .gitignore file.
+
+# MacOS system files
+*.DS_Store
+
+# XCode files
+*.xcodeproj/
+DerivedData/
+build/
+xuserdata/
+*.dSYM/
+
+# VSCode files
+.vscode/
+
+# Output files
+*.out
+
+# Compile object files and executables
+*.exe
+*.app
+
+# Python virtual environment
+env/
+
+# Emacs temporary files
+*~

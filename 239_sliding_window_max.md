@@ -2,6 +2,7 @@
 
 **My solution:** 
 Maintain a monotonic queue. Only insert the element to the queue if it is greater than the back of the queue. So the front of the queue is always the max value in the sliding window.
+
 ```
 class Solution {
 public:

@@ -1,6 +1,9 @@
 ***47. Permutation II***
 
+***Solution:***
+
 The main problem here is how to get rid of repetitive elements besides using a set. See comments.
+
 
 ```
 vector<vector<int>> ans;
